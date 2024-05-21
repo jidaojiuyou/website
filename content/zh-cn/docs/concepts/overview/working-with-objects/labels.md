@@ -1,5 +1,5 @@
 ---
-title: 标签和选择算符
+title: 标签和标签选择器
 content_type: concept
 weight: 40
 ---
